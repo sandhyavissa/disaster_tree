@@ -1,0 +1,6 @@
+{
+  "name": "DisasterTree",
+  "description": "AI-powered road clearance coordination that turns chaotic post-storm reports into an instant, prioritized municipal command dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
